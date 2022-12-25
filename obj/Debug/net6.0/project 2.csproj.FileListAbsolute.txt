@@ -1,0 +1,15 @@
+C:\Users\hm062\source\repos\project 2\bin\Debug\net6.0\project 2.exe
+C:\Users\hm062\source\repos\project 2\bin\Debug\net6.0\project 2.deps.json
+C:\Users\hm062\source\repos\project 2\bin\Debug\net6.0\project 2.runtimeconfig.json
+C:\Users\hm062\source\repos\project 2\bin\Debug\net6.0\project 2.dll
+C:\Users\hm062\source\repos\project 2\bin\Debug\net6.0\project 2.pdb
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\project 2.csproj.AssemblyReference.cache
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\project 2.AssemblyInfoInputs.cache
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\project 2.AssemblyInfo.cs
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\project 2.csproj.CoreCompileInputs.cache
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\project 2.dll
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\refint\project 2.dll
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\project 2.pdb
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\project 2.genruntimeconfig.cache
+C:\Users\hm062\source\repos\project 2\obj\Debug\net6.0\ref\project 2.dll
